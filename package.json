@@ -1,0 +1,27 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyrrui/inbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyrrui/inbox/issues"
+  },
+  "homepage": "https://github.com/Kyrrui/inbox#readme",
+  "dependencies": {
+    "ganache-cli": "^6.1.0",
+    "mocha": "^5.1.1",
+    "npm": "^5.8.0",
+    "solc": "^0.4.22",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.0.0-beta.26"
+  }
+}
